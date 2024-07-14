@@ -19,19 +19,22 @@
 #### Workflow
 1. Iterate through the running processes in the operating system. Identify the target process and obtain its handle and perform stackwalk operation on the main thread. Checks machine type etc.
    
-   ![Process-Identification](https://github.com/user-attachments/assets/55327250-a4a4-40e4-b657-bd89a3de6a43)
+   ![Screenshot 2024-07-12 203545](https://github.com/user-attachments/assets/cdb46618-74bb-4c8a-a742-a65ebe904529)
    
 2. Relation between components of the C++ DLL
    
-   ![PDB-file-Interaction](https://github.com/user-attachments/assets/0bd59dcf-0497-4f77-928a-f38528b1961f)
+  ![Screenshot 2024-07-12 203721](https://github.com/user-attachments/assets/b84ac997-c3f3-468b-882b-6ba1077d270a)
+
    
 3. Marshalling data from C++ DLL to WPF
    
-   ![Marshalling](https://github.com/user-attachments/assets/ba601807-c157-4d19-92a8-05f233619e45)
+   ![Screenshot 2024-07-12 203843](https://github.com/user-attachments/assets/a76e487a-59b9-45c0-bfa5-729555871b40)
+
    
 4. Visualize the UI, you can improv on this definitely, we gave up by the end of it
    
-   ![image](https://github.com/user-attachments/assets/33b6f4f2-635b-4137-900a-007886bb41d9)
+   ![Screenshot 2024-07-12 203927](https://github.com/user-attachments/assets/e496f09d-8c57-4acc-88f9-f5e8a48ac83d)
+
 
 ---
 
